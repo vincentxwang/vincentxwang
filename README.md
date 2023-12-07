@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi!
+
+I'm Vincent, and I'm majoring in Math and CS @ Rice!
+
+> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
 
 <!--
 **vincentxwang/vincentxwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
